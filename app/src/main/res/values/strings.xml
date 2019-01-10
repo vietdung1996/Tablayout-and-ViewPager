@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tablayout and ViewPager</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="fragment_three">Fragment Three</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="three">Three</string>
+</resources>
